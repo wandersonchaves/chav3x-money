@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2024-03-18T22:54:38.695Z"
+      "createdAt": "2024-03-17T22:54:38.695Z"
     },
     {
       "id": 2,
@@ -15,6 +15,14 @@
       "category": "Alimentacao",
       "price": 60,
       "createdAt": "2024-03-18T22:54:38.695Z"
+    },
+    {
+      "id": 3,
+      "description": "Chav3x",
+      "type": "outcome",
+      "category": "Education",
+      "price": 12000,
+      "createdAt": "2024-03-16T22:54:38.695Z"
     }
   ]
 }
