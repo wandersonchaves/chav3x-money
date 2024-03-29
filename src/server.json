@@ -1,28 +1,28 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de sites",
-      "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2024-03-17T22:54:38.695Z"
-    },
-    {
-      "id": 2,
-      "description": "Hamburguer",
-      "type": "outcome",
-      "category": "Alimentacao",
-      "price": 60,
-      "createdAt": "2024-03-18T22:54:38.695Z"
-    },
-    {
-      "id": 3,
-      "description": "Chav3x",
-      "type": "outcome",
-      "category": "Education",
+      "id": "cc3e",
+      "description": "Desenvolvimento de app",
       "price": 12000,
-      "createdAt": "2024-03-16T22:54:38.695Z"
+      "category": "APP",
+      "type": "income",
+      "createdAt": "2024-03-22T11:43:37.848Z"
+    },
+    {
+      "id": "556e",
+      "description": "Cabelo e barba",
+      "price": 25,
+      "category": "SALAO",
+      "type": "outcome",
+      "createdAt": "2024-03-22T17:15:40.060Z"
+    },
+    {
+      "id": "be04",
+      "description": "PROJETO 01",
+      "price": 2500,
+      "category": "DESENVOLVIMENTO",
+      "type": "income",
+      "createdAt": "2024-03-22T17:16:17.813Z"
     }
   ]
 }
